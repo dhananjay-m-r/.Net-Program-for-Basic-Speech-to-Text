@@ -1,0 +1,12 @@
+A:\dhana\Downloads\Speech to Text\Speech to Text\bin\Debug\Speech to Text.exe.config
+A:\dhana\Downloads\Speech to Text\Speech to Text\bin\Debug\Speech to Text.exe
+A:\dhana\Downloads\Speech to Text\Speech to Text\bin\Debug\Speech to Text.pdb
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Speech to Text.csproj.AssemblyReference.cache
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Interop.SpeechLib.dll
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Speech to Text.csproj.ResolveComReference.cache
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Speech_to_Text.Form1.resources
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Speech_to_Text.Properties.Resources.resources
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Speech to Text.csproj.GenerateResource.cache
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Speech to Text.csproj.CoreCompileInputs.cache
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Speech to Text.exe
+A:\dhana\Downloads\Speech to Text\Speech to Text\obj\Debug\Speech to Text.pdb
